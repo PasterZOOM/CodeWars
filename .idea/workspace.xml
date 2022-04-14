@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fe2b80f8-a5d1-4685-9aaa-7ff7e4ee9310" name="Changes" comment="05.04.2022">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript/Map over a list of lists.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaScript/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaScript/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +37,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/JavaScript" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -62,6 +64,7 @@
       <workItem from="1648806488116" duration="2368000" />
       <workItem from="1649189865153" duration="1092000" />
       <workItem from="1649354896675" duration="11000" />
+      <workItem from="1649964946383" duration="43000" />
     </task>
     <task id="LOCAL-00001" summary="01.04.2022">
       <created>1648807790006</created>

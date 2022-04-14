@@ -4,14 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3fbca91-415c-4011-bdb5-dc55d57d03f8" name="Changes" comment="Friday" />
+    <list default="true" id="f3fbca91-415c-4011-bdb5-dc55d57d03f8" name="Changes" comment="07.04.2022" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -26,7 +33,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../IT-inkubator/Lessons/microtaski" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../IT-inkubator/Lessons/samurai-way-on-js" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -42,6 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1648577181133</updated>
       <workItem from="1648577182401" duration="662000" />
+      <workItem from="1649354908743" duration="506000" />
     </task>
     <task id="LOCAL-00001" summary="Friday">
       <created>1648577196872</created>
@@ -50,7 +58,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648577196872</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="07.04.2022">
+      <created>1649354962275</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1649354962275</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -69,6 +84,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Friday" />
-    <option name="LAST_COMMIT_MESSAGE" value="Friday" />
+    <MESSAGE value="07.04.2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="07.04.2022" />
   </component>
 </project>
