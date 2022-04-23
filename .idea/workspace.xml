@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fe2b80f8-a5d1-4685-9aaa-7ff7e4ee9310" name="Changes" comment="14.04.2022">
-      <change afterPath="$PROJECT_DIR$/src/JavaScript/Find the odd int.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript/List Filtering.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript/Use map() to double the values in an array.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript/Array.diff.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript/Stop gninnipS My sdroW!.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +37,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../IT-inkubator/Lessons/todolists" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -65,7 +64,10 @@
       <workItem from="1648806488116" duration="2368000" />
       <workItem from="1649189865153" duration="1092000" />
       <workItem from="1649354896675" duration="11000" />
-      <workItem from="1649964946383" duration="2338000" />
+      <workItem from="1649964946383" duration="2939000" />
+      <workItem from="1650573746795" duration="1266000" />
+      <workItem from="1650620016189" duration="352000" />
+      <workItem from="1650715184480" duration="955000" />
     </task>
     <task id="LOCAL-00001" summary="01.04.2022">
       <created>1648807790006</created>
@@ -88,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649965092089</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="14.04.2022">
+      <created>1649969476763</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1649969476763</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
