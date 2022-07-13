@@ -9,7 +9,7 @@ function merge(line) {
     }
     for (let i = 0; i < line.length; i = i + 1) {
         if (line[i] === line[i + 1]) {
-            line[i] *= 2
+            line[i] = line[i] * 2
             line.splice(i + 1, 1)
             a++
         }
@@ -23,4 +23,5 @@ function merge(line) {
 console.log(merge([2, 0, 2, 2]))
 console.log(merge([2, 0, 2, 4]))
 console.log(merge([0, 0, 2, 2]))
-console.log(merge([32, 32, 4, 0, 4, 32, 4, 16, 8]))
+console.log(merge([0, 0, 0, 2]))
+console.log(merge([32, 32, 4, 0, 0, 4, 8, 32, 4, 16, 8]))
