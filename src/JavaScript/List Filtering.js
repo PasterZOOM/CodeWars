@@ -1,1 +1,0 @@
-const filter_list = l => l.filter(e => typeof e === 'number');
